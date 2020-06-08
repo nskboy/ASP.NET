@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\netcoreapp3.0\FTP.exe
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\netcoreapp3.0\FTP.deps.json
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\netcoreapp3.0\FTP.runtimeconfig.json
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\netcoreapp3.0\FTP.runtimeconfig.dev.json
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\netcoreapp3.0\FTP.dll
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\netcoreapp3.0\FTP.pdb
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\netcoreapp3.0\FTP.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\netcoreapp3.0\FTP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\netcoreapp3.0\FTP.AssemblyInfo.cs
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\netcoreapp3.0\FTP.dll
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\netcoreapp3.0\FTP.pdb
