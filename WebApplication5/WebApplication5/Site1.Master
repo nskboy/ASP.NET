@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication5.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">
+    <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
+    <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server" style="height:100%">
+        <div class="d-flex-inline container flex-direction-row" style="height:auto;">
+            <div class="left-cont pt-4 pr-1 lh-1_5 d-flex flex-direction-col" id="navbar_div">
+                <div class="pl-5 pb-3">
+                    <a href="Home.aspx">Home</a>
+                </div>
+                <div class="pl-5 pb-3 pt-3">
+                    <a href="Timetable.aspx">Course Timetable</a>
+                </div>
+                <div class="pl-5 pb-3 pt-3 dropdown">
+                    <a href="#" role="button" class="dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Exam</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <a href="ExamSchedule.aspx" class="dropdown-item">Exam Schedule</a>
+                        <a href="ExamResult.aspx" class="dropdown-item">Exam Result</a>
+                    </div>
+                </div>
+                <div class="pl-5 pb-3 pt-3">
+                    <a href="#" role="button" class="dropdown-toggle" id="dropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">View List</a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink1">
+                        <a href="Course_info.aspx" class="dropdown-item">Course List</a>
+                        <a href="Lecture_info.aspx" class="dropdown-item">Lecture List</a>
+                    </div>
+                </div>
+                <div class="pl-5 pt-3">
+                    <a href="EvaluationCourses.aspx">Evaluation</a>
+                </div>
+            </div>
+            <div class="right-cont justify-content-right d-flex flex-direction-col">
+                <div class="banner d-flex justify-content-right" style="padding-top:20px; padding-right:10px; height:auto;">
+                    <asp:Image ID="Image1" runat="server" Height="92px" ImageUrl="~/logo.png" Width="462px" />
+                </div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            
+        </div>
+    </form>
+</body>
+</html>

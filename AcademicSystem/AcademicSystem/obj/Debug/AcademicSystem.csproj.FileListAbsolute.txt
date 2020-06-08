@@ -1,0 +1,38 @@
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\bin\Debug\AcademicSystem.exe.config
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\bin\Debug\AcademicSystem.exe
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\bin\Debug\AcademicSystem.pdb
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.csprojAssemblyReference.cache
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form1.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form2.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form3.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form4.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form5.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form6.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form7.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Properties.Resources.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.csproj.GenerateResource.cache
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.exe
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.pdb
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form10.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form11.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form8.resources
+D:\201909\Programming Elective 2\AcademicSystem\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form9.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\bin\Debug\AcademicSystem.exe.config
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\bin\Debug\AcademicSystem.exe
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\bin\Debug\AcademicSystem.pdb
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.csprojAssemblyReference.cache
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form1.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form10.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form11.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form2.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form3.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form4.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form5.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form6.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form7.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form8.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Form9.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.Properties.Resources.resources
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.exe
+C:\Users\user\Documents\xmu\y3s3\ProgrammingElective.Net\AcademicSystem\AcademicSystem\obj\Debug\AcademicSystem.pdb
